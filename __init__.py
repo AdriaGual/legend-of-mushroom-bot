@@ -10,7 +10,7 @@ import threading
 class LegendOfMushroomBot:
     def __init__(self, root):
         self.root = root
-        self.root.title("Legend of Mushroom")
+        self.root.title("Legend of Mushroom 🍄")
 
         self.running = False
         self.app_state = AppState()
@@ -49,7 +49,7 @@ class LegendOfMushroomBot:
         self.root.geometry("400x500")  # Set initial window size
 
         # Emulator Script title
-        tk.Label(self.root, text="Mushroom Legends Bot", font=("Helvetica", 16, "bold")).pack(pady=10)
+        tk.Label(self.root, text="Mushroom Legends Bot 🍄", font=("Helvetica", 16, "bold")).pack(pady=10)
 
         # Frame to hold emulator path selection button and label
         select_path_frame = tk.Frame(self.root)
