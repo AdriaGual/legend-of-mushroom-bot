@@ -1,0 +1,2 @@
+emulator = "emulator-5554"
+path = "F:/LDPlayer/LDPlayer9"
