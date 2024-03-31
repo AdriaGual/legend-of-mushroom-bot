@@ -7,6 +7,19 @@ The Legend Of Mushroom Bot is an automation tool designed to streamline gameplay
 
 https://github.com/AdriaGual/legend-of-mushroom-bot/assets/25803231/b9fff28f-d8c8-451c-abfe-11e3ebd4fbaa
 
+## Usage:
+
+- **1. Start LDPlayerEmulator**
+- **2. Enable ADB connection** Open Local connection
+- **3. Enable Fixed window size**
+- **4. Choose the resolution to be 1600x900 (dpi 240)**
+- **5. Install the requirements**: pip install -r requirements.txt
+- **6. Start the bot**: python __init__.py
+- **7. Start Legend Of Mushroom**
+- **8. Choose the path to the emulator** You have to choose the main folder of the emulator (in the LDPlayer case would be LDPlayer/LDPlayer9)
+- **9. Start botting**
+
+![image](https://github.com/AdriaGual/legend-of-mushroom-bot/assets/25803231/319924e6-2584-48d8-91e5-d5aa45a03b64)
 
 ## Key Features:
 
